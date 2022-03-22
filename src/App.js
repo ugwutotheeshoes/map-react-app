@@ -6,7 +6,6 @@ const location = {
   lng: -122.08427,
 }
 
-
 function App() {
   return (
     <div className="App">
